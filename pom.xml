@@ -35,12 +35,6 @@
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
 		</dependency>
-		<dependency>
-			<groupId>au.com.reece</groupId>
-			<artifactId>address-book-web</artifactId>
-			<version>${project.version}</version>
-			<scope>runtime</scope>
-		</dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-test</artifactId>
